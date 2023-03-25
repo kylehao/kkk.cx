@@ -1,1 +1,2 @@
 # kkk.cx
+domain list
